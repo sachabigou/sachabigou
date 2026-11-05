@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Puck / Sacha Bigou</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='black'/%3E%3Cpath fill='%23d3af8a' d='M16 4c1 5 12 9 12 16 0 5-5 8-12 8S4 25 4 20c0-7 11-11 12-16z'/%3E%3Cpath stroke='black' stroke-width='2' d='M11 18v3m10-3v3'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <header class="address">
+      <a href="https://github.com/sachabigou">sachabigou <span>/</span> README.md</a>
+      <span>PUCK COMPANION</span>
+    </header>
+
+    <section class="unit" aria-label="Puck companion">
+      <img id="pet" src="assets/puck.svg" width="920" height="504" alt="Chestnut Puck from Berserk, drawn in ASCII with little wings.">
+      <dl class="meters" aria-label="Companion status">
+        <div><dt>Energy</dt><dd id="energy"></dd></div>
+        <div><dt>Mood</dt><dd id="mood"></dd></div>
+        <div><dt>Care actions</dt><dd id="care"></dd></div>
+      </dl>
+      <dl class="meters github" aria-label="Public GitHub activity">
+        <div><dt>Source repos</dt><dd id="repositories"></dd></div>
+        <div><dt>Stars earned</dt><dd id="stars"></dd></div>
+        <div><dt>Merged PRs</dt><dd id="merged-public-pulls"></dd></div>
+      </dl>
+      <div class="controls" aria-label="Care actions">
+        <button type="button" data-action="feed" disabled><span aria-hidden="true">+</span> Offer a berry</button>
+        <button type="button" data-action="pet" disabled><span aria-hidden="true">♡</span> Pet Puck</button>
+        <button type="button" data-action="play" disabled><span aria-hidden="true">▷</span> Play a loop</button>
+      </div>
+      <p id="message" role="status" aria-live="polite">Puck is hovering nearby.</p>
+    </section>
+
+    <section class="profile" aria-label="About Sacha">
+      <h1>Hey, I’m Sacha.</h1>
+      <p id="introduction"></p>
+      <p id="focus"></p>
+      <div class="badges" id="badges" role="group" aria-label="Technology stack"></div>
+    </section>
+
+    <section class="profile-section" aria-labelledby="work-heading">
+      <h2 id="work-heading">Selected work</h2>
+      <div id="work" class="work-grid"></div>
+    </section>
+
+    <section class="profile-section" aria-labelledby="skills-heading">
+      <h2 id="skills-heading">Skills &amp; how I work</h2>
+      <div id="skills" class="skills-grid"></div>
+    </section>
+
+    <section class="profile-section contact" aria-labelledby="contact-heading">
+      <h2 id="contact-heading">Get in touch</h2>
+      <p id="contact-text"></p>
+      <nav id="contact-links" aria-label="Contact links"></nav>
+    </section>
+
+    <footer>
+      <span><a href="https://magazine.younganimal.com/title/?id=32">Berserk fan art</a> · Care is saved in this browser.</span>
+      <a href="https://github.com/sachabigou">GitHub profile ↗</a>
+    </footer>
+  </main>
+  <script type="module" src="preview.mjs"></script>
+</body>
+</html>

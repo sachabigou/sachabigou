@@ -1,0 +1,92 @@
+:root {
+  color-scheme: dark;
+  font-family: 'Avenir Next', Avenir, system-ui, sans-serif;
+  color: #efeeec;
+  background: #000;
+  --display: Baskerville, Georgia, serif;
+  --mono: ui-monospace, SFMono-Regular, Consolas, monospace;
+  --quiet: #ababab;
+  --line: #292929;
+  --signal: #e2c6a6;
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; }
+main { width: min(920px, calc(100% - 48px)); margin: 52px auto 48px; }
+a { color: inherit; text-decoration-color: #626262; text-underline-offset: 4px; }
+a:hover { color: var(--signal); }
+.address, footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 16px;
+  color: var(--quiet);
+  font-size: 11px;
+  line-height: 1.6;
+}
+.address { margin-bottom: 17px; font-family: var(--mono); }
+.address a { text-decoration: none; }
+.address a span { color: #a8a8a8; margin: 0 5px; }
+.address > span { font-size: 9px; letter-spacing: 1.4px; text-align: right; }
+.unit { border-bottom: 1px solid var(--line); }
+.unit img { display: block; width: 100%; height: auto; }
+.meters { display: none; }
+.controls { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.controls button {
+  min-height: 59px;
+  padding: 12px 8px;
+  color: #efeeec;
+  background: #000;
+  border: 1px solid var(--line);
+  border-top: 0;
+  border-right: 0;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.controls button:last-child { border-right: 1px solid var(--line); }
+.controls button:hover, .controls button:focus-visible { color: var(--signal); background: #121212; }
+.controls button:active { background: #1b1b1b; }
+.controls button:disabled { opacity: 0.55; cursor: default; }
+.controls span { color: var(--signal); margin-right: 8px; font-family: var(--mono); }
+button:focus-visible, a:focus-visible { outline: 2px solid var(--signal); outline-offset: 3px; }
+#message { margin: 0; padding: 13px 0; color: var(--quiet); font-size: 12px; line-height: 1.5; min-height: 45px; }
+.profile { padding: 35px 0; }
+h1, .profile-section h2 { margin: 0 0 11px; font-family: var(--display); font-weight: 400; line-height: 1.08; }
+h1 { font-size: clamp(37px, 6vw, 57px); letter-spacing: -0.05em; }
+.profile p { max-width: 64ch; font-size: 15px; line-height: 1.7; margin: 0; }
+.profile p + p { color: var(--quiet); margin-top: 6px; }
+.badges { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 19px; }
+.badges img { display: block; height: 28px; width: auto; }
+nav { display: flex; flex-wrap: wrap; gap: 10px 21px; margin-top: 16px; color: #d1d1d1; font-size: 13px; }
+.profile-section { border-top: 1px solid var(--line); padding: 29px 0 35px; }
+.profile-section h2 { margin-bottom: 24px; font-size: clamp(32px, 4vw, 43px); letter-spacing: -0.04em; }
+.skills-grid, .work-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 38px; }
+.work-grid h3 { margin: 0; font-size: 16px; }
+.work-grid p { margin: 7px 0 0; color: var(--quiet); font-size: 14px; line-height: 1.6; }
+.work-grid nav { margin-top: 10px; }
+.skills-grid h3 { margin: 0; color: #d2d2d2; font-size: 14px; font-weight: 700; }
+.skills-grid dl { margin: 13px 0 0; }
+.skills-grid dt { border-top: 1px solid var(--line); padding-top: 12px; font-size: 14px; font-weight: 600; }
+.skills-grid dd { margin: 4px 0 14px; color: var(--quiet); font-size: 14px; line-height: 1.6; }
+.skills-grid dd:last-child { margin-bottom: 0; }
+.skills-grid a { color: #e5e3e0; }
+.contact p { margin: 0; font-size: 15px; line-height: 1.7; }
+footer { border-top: 1px solid var(--line); padding-top: 13px; }
+footer a { flex-shrink: 0; }
+
+@media (max-width: 600px) {
+  main { width: calc(100% - 28px); margin-top: 26px; }
+  .address { margin-bottom: 12px; }
+  .meters { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); margin: 0; font-family: var(--mono); }
+  .meters div { padding: 9px 8px; text-align: center; border-bottom: 1px solid var(--line); }
+  .meters dt { color: var(--quiet); font-size: 10px; }
+  .meters dd { color: var(--signal); margin: 4px 0 0; font-size: 12px; }
+  .meters.github dd { color: #efeeec; }
+  .controls button { font-size: 11px; min-height: 56px; }
+  .controls span { display: block; margin: 0 0 5px; }
+  .profile p { font-size: 14px; }
+  .skills-grid, .work-grid { grid-template-columns: 1fr; gap: 27px; }
+  footer { font-size: 9px; }
+}

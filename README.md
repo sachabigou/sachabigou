@@ -4,13 +4,13 @@ I’m a full-stack developer. I build web and mobile products and connect AI age
 
 I turn rough product ideas into working interfaces, connect services that need to talk, and automate the recurring work in between.
 
-![Chestnut Puck from Berserk, drawn in ASCII with little wings](assets/puck.svg)
+[![Chestnut Puck from Berserk, drawn in ASCII with little wings](assets/puck.svg)](https://sachabigou.github.io/sachabigou/)
 
-Meet Puck, my virtual companion and a little piece of [Berserk fan art](https://magazine.younganimal.com/title/?id=32).
+[![Offer a berry](https://img.shields.io/badge/Offer%20a%20berry-2D231C?style=for-the-badge)](https://sachabigou.github.io/sachabigou/?action=feed) [![Pet Puck](https://img.shields.io/badge/Pet%20Puck-2D231C?style=for-the-badge)](https://sachabigou.github.io/sachabigou/?action=pet) [![Play a loop](https://img.shields.io/badge/Play%20a%20loop-2D231C?style=for-the-badge)](https://sachabigou.github.io/sachabigou/?action=play)
 
 ## Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-1A1A1A?style=for-the-badge&logo=typescript&logoColor=75B6FF) ![React](https://img.shields.io/badge/React-1A1A1A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React%20Native-1A1A1A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-1A1A1A?style=for-the-badge&logo=expo&logoColor=FFFFFF) ![Node.js](https://img.shields.io/badge/Node.js-1A1A1A?style=for-the-badge&logo=nodedotjs&logoColor=8ACA72) ![n8n](https://img.shields.io/badge/n8n-1A1A1A?style=for-the-badge&logo=n8n&logoColor=FF8199) ![Figma](https://img.shields.io/badge/Figma-1A1A1A?style=for-the-badge&logo=figma&logoColor=E4AFD4)
+![TypeScript](https://img.shields.io/badge/TypeScript-1A1A1A?style=for-the-badge&logo=typescript&logoColor=75B6FF) ![Next.js](https://img.shields.io/badge/Next.js-1A1A1A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF) ![Payload CMS](https://img.shields.io/badge/Payload%20CMS-1A1A1A?style=for-the-badge&logo=payloadcms&logoColor=FFFFFF) ![Vite](https://img.shields.io/badge/Vite-1A1A1A?style=for-the-badge&logo=vite&logoColor=A890FF) ![React Native](https://img.shields.io/badge/React%20Native-1A1A1A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Swift](https://img.shields.io/badge/Swift-1A1A1A?style=for-the-badge&logo=swift&logoColor=FA8D70) ![Node.js](https://img.shields.io/badge/Node.js-1A1A1A?style=for-the-badge&logo=nodedotjs&logoColor=8ACA72) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1A1A?style=for-the-badge&logo=postgresql&logoColor=93BEF0) ![n8n](https://img.shields.io/badge/n8n-1A1A1A?style=for-the-badge&logo=n8n&logoColor=FF8199) ![Figma](https://img.shields.io/badge/Figma-1A1A1A?style=for-the-badge&logo=figma&logoColor=E4AFD4)
 
 ## Selected work
 
@@ -39,12 +39,6 @@ My electronic music project. It’s where I experiment with rhythm, texture, and
 - **Clear communication.** I explain what changed, how I checked it, and what still needs a decision.
 - **Ownership.** I follow a problem through to a working result, then document what someone else needs to pick it up.
 - **Creative problem-solving.** I prototype ideas to make them easier to judge. I bring the same curiosity to interfaces, pixel art, and music.
-
-## GitHub contributions
-
-[![My GitHub contribution calendar](assets/contributions.svg)](https://github.com/sachabigou#js-contribution-activity-description)
-
-This calendar is refreshed daily from the activity visible on my GitHub profile.
 
 ## Get in touch
 

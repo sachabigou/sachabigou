@@ -8,8 +8,6 @@
     alt="GitAnimals pixel pig and contribution count"
   />
 </a>
-  
-<p align="center"><img src="./banner.png" alt="CodeSacha"></p>
 
 <div>
 

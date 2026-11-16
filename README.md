@@ -1,45 +1,71 @@
-# Sacha Bigou
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1b,20:565a75,40:c6b7be,60:c6b7be,80:565a75,100:0f0f1b)
 
-![CodeSacha and SBigz beside an ASCII version of my pixel portrait](assets/profile-signature.svg)
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/SBigz?pet-id=656164865082775191"
+    width="600"
+    height="120"
+  />
+</a>
+  
+<p align = center ><img src="./banner.png"> </p>
 
-I’m a full-stack developer working across web, mobile, and automation. I build interfaces, connect APIs, and give AI agents access to the tools and data they need.
+<div>
 
-I release electronic music as **SBigz**.
+<img align="right" width="400" height="500" alt="SBigz" src="./right.png" style={{z-index:1000}}/>
 
-## Selected work
+</br>
 
-### Synthwave ’2077
+<h2> 〉 about me </h2>
 
-An open-source theme that brings a Cyberpunk-inspired palette to the tools I work in. I adapted it for Orca’s interface, editor, and terminal.
+- 🦾 **full stack** developer  
+- ⭐ currently working on **web and mobile development**
+- 💀 a lot of **private repositories**
+- 🕹️ a **freelance** working his way around things
+- 👾 love **pixel**
+  
+<h2> 〉 current skills  </h2>
+  
+- <h4> languages </h4>
+  <img src = "https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
+  <img src = "https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=blue" alt = "ts" />
+  <img src = "https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=orange" alt = "html" />
+  <img src = "https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=blue" alt = "css" />
+  <img src = "https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt = "markdown" />
+  
+- <h4> database </h4>
+  <img src = "https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=green" alt = "mongodb" />
 
-[VS Code repository](https://github.com/sachabigou/Synthwave-2077) · [Orca port](https://github.com/sachabigou/synthwave-2077-orca)
+- <h4> frameworks & libraries </h4>
+  <img src = "https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react" />
+  <img src = "https://img.shields.io/badge/react_native-black?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" />
+  <img src = "https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt = "expressjs" />
+  <img src = "https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt = "socket-io" />
+  <img src = "https://img.shields.io/badge/expo-black?style=for-the-badge&logo=expo&logoColor=#D04A37" alt = "expo" />
+  <img src = "https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=violet" alt = "bootstrap5" />
 
-### SBigz
+- <h4> hosting </h4>
+  <img src = "https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white" alt = "vercel" />
+  <img src = "https://img.shields.io/badge/DigitalOcean-black?style=for-the-badge&logo=digitalOcean&logoColor=blue" alt = "digital-ocean" />
+  <img src = "https://img.shields.io/badge/ovh-black?style=for-the-badge&logo=ovh&logoColor=lightblue" alt = "ovh" />
+- <h4> designing tools </h4>
+  <img src = "https://img.shields.io/badge/adobe%20photoshop-black?style=for-the-badge&logo=adobe%20photoshop&logoColor=cyan" alt = "photoshop" />
+  <img src = "https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=violet" alt = "figma" />
+- <h4> music </h4>
+  <a href="https://www.soundcloud.com/sbigz" target="_blank"><img src = "https://img.shields.io/badge/sound%20cloud-black?style=for-the-badge&logo=soundcloud&logoColor=orange" alt = "soundcloud" /></a>
+  <a href="https://open.spotify.com/artist/0ggEZfElbLKckqn4O5vbcP" target="_blank"><img src = "https://img.shields.io/badge/Spotify-black?style=for-the-badge&logo=spotify&logoColor=green" alt = "spotify" /></a>
+  <a href="https://music.apple.com/fr/artist/sbigz/1540002649" target="_blank"><img src = "https://img.shields.io/badge/Apple_Music-black?style=for-the-badge&logo=apple-music&logoColor=fc3c44" alt = "apple" /></a>
+  <a href="https://www.deezer.com/fr/artist/113167382" target="_blank"><img src = "https://img.shields.io/badge/Deezer-black?style=for-the-badge&logo=deezer&logoColor=blue" alt = "deezer" /></a>
 
-My electronic music project. It’s where I experiment with rhythm, texture, and sound outside the editor.
+</br>
 
-[SoundCloud](https://soundcloud.com/sbigz) · [Spotify](https://open.spotify.com/artist/0ggEZfElbLKckqn4O5vbcP)
+</div>
 
-## Stack
+---
 
-![TypeScript](https://img.shields.io/badge/TypeScript-1A1A1A?style=for-the-badge&logo=typescript&logoColor=75B6FF) ![Next.js](https://img.shields.io/badge/Next.js-1A1A1A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF) ![Payload CMS](https://img.shields.io/badge/Payload%20CMS-1A1A1A?style=for-the-badge&logo=payloadcms&logoColor=FFFFFF) ![Vite](https://img.shields.io/badge/Vite-1A1A1A?style=for-the-badge&logo=vite&logoColor=A890FF) ![React Native](https://img.shields.io/badge/React%20Native-1A1A1A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Swift](https://img.shields.io/badge/Swift-1A1A1A?style=for-the-badge&logo=swift&logoColor=FA8D70) ![Node.js](https://img.shields.io/badge/Node.js-1A1A1A?style=for-the-badge&logo=nodedotjs&logoColor=8ACA72) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1A1A?style=for-the-badge&logo=postgresql&logoColor=93BEF0) ![n8n](https://img.shields.io/badge/n8n-1A1A1A?style=for-the-badge&logo=n8n&logoColor=FF8199) ![Figma](https://img.shields.io/badge/Figma-1A1A1A?style=for-the-badge&logo=figma&logoColor=E4AFD4)
+<img align="right" src="https://komarev.com/ghpvc/?username=SBigz&label=Visitors_👀&color=lightgray&style=flat-square" alt="SBigz" />
 
-## Skills & how I work
+<a href="https://www.linkedin.com/company/93264941/" target="_blank"><img src="https://img.shields.io/badge/-CodeSacha-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
+<a href="https://www.linkedin.com/in/sacha-bigou" target="_blank"><img src="https://img.shields.io/badge/-Sacha_Bigou-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
 
-### Technical skills
-
-- **Web and mobile development.** I work with TypeScript, Next.js, and Vite on the web, and with Swift and React Native on mobile.
-- **APIs and automation.** I connect apps to their data with Node.js, Payload CMS, and PostgreSQL. I use n8n for recurring work like collecting data and generating documents.
-- **Developer tooling and visual design.** I ported Synthwave ’2077 to Orca and adapted the palette across its interface, editor, and terminal. [Synthwave ’2077 for Orca](https://github.com/sachabigou/synthwave-2077-orca)
-
-### Soft skills
-
-- **Clear communication.** I explain decisions, trade-offs, and next steps in terms the team can act on.
-- **Ownership.** I carry work through implementation, verification, and handoff.
-- **Creative problem-solving.** I make small prototypes to test ideas and get feedback early.
-
-## Get in touch
-
-Have a web product or an automation in mind? Tell me what you’re building.
-
-[LinkedIn](https://www.linkedin.com/in/sacha-bigou) · [VERYDISCO](https://verydisco-agency.fr)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1b,20:565a75,40:c6b7be,60:c6b7be,80:565a75,100:0f0f1b&section=footer)

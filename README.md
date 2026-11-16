@@ -17,30 +17,25 @@
 <h3> 〉 current skills </h3>
   
 - <h4> languages </h4>
-  <img src = "https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
-  <img src = "https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=blue" alt = "ts" />
-  <img src = "https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=orange" alt = "html" />
-  <img src = "https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=blue" alt = "css" />
-  <img src = "https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt = "markdown" />
-  
+  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=75B6FF" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=swift&logoColor=FA8D70" alt="Swift" />
+
 - <h4> database </h4>
-  <img src = "https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=green" alt = "mongodb" />
+  <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=93BEF0" alt="PostgreSQL" />
 
-- <h4> frameworks & libraries </h4>
-  <img src = "https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react" />
-  <img src = "https://img.shields.io/badge/react_native-black?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" />
-  <img src = "https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt = "expressjs" />
-  <img src = "https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt = "socket-io" />
-  <img src = "https://img.shields.io/badge/expo-black?style=for-the-badge&logo=expo&logoColor=#D04A37" alt = "expo" />
-  <img src = "https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=violet" alt = "bootstrap5" />
+- <h4> frameworks & build tools </h4>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Payload%20CMS-black?style=for-the-badge&logo=payloadcms&logoColor=FFFFFF" alt="Payload CMS" />
+  <img src="https://img.shields.io/badge/React%20Native-black?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite&logoColor=A890FF" alt="Vite" />
 
-- <h4> hosting </h4>
-  <img src = "https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white" alt = "vercel" />
-  <img src = "https://img.shields.io/badge/DigitalOcean-black?style=for-the-badge&logo=digitalOcean&logoColor=blue" alt = "digital-ocean" />
-  <img src = "https://img.shields.io/badge/ovh-black?style=for-the-badge&logo=ovh&logoColor=lightblue" alt = "ovh" />
+- <h4> runtime & automation </h4>
+  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=8ACA72" alt="Node.js" />
+  <img src="https://img.shields.io/badge/n8n-black?style=for-the-badge&logo=n8n&logoColor=FF8199" alt="n8n" />
+
 - <h4> designing tools </h4>
-  <img src = "https://img.shields.io/badge/adobe%20photoshop-black?style=for-the-badge&logo=adobe%20photoshop&logoColor=cyan" alt = "photoshop" />
-  <img src = "https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=violet" alt = "figma" />
+  <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=E4AFD4" alt="Figma" />
+
 - <h4> music </h4>
   <a href="https://www.soundcloud.com/sbigz" target="_blank"><img src = "https://img.shields.io/badge/sound%20cloud-black?style=for-the-badge&logo=soundcloud&logoColor=orange" alt = "soundcloud" /></a>
   <a href="https://open.spotify.com/artist/0ggEZfElbLKckqn4O5vbcP" target="_blank"><img src = "https://img.shields.io/badge/Spotify-black?style=for-the-badge&logo=spotify&logoColor=green" alt = "spotify" /></a>

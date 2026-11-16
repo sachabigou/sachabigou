@@ -3,20 +3,21 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/SBigz?pet-id=656164865082775191"
-    width="600"
+    width="100%"
     height="120"
+    alt="GitAnimals pixel pig and contribution count"
   />
 </a>
   
-<p align = center ><img src="./banner.png"> </p>
+<p align="center"><img src="./banner.png" alt="CodeSacha"></p>
 
 <div>
 
-<img align="right" width="400" height="500" alt="SBigz" src="./right.png" style={{z-index:1000}}/>
+<img align="right" width="47%" alt="SBigz pixel portrait" src="./right.png" />
 
-</br>
+<br>
 
-<h2> 〉 about me </h2>
+<h3> 〉 about me </h3>
 
 - 🦾 **full stack** developer  
 - ⭐ currently working on **web and mobile development**
@@ -24,7 +25,7 @@
 - 🕹️ a **freelance** working his way around things
 - 👾 love **pixel**
   
-<h2> 〉 current skills  </h2>
+<h3> 〉 current skills </h3>
   
 - <h4> languages </h4>
   <img src = "https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
@@ -57,7 +58,7 @@
   <a href="https://music.apple.com/fr/artist/sbigz/1540002649" target="_blank"><img src = "https://img.shields.io/badge/Apple_Music-black?style=for-the-badge&logo=apple-music&logoColor=fc3c44" alt = "apple" /></a>
   <a href="https://www.deezer.com/fr/artist/113167382" target="_blank"><img src = "https://img.shields.io/badge/Deezer-black?style=for-the-badge&logo=deezer&logoColor=blue" alt = "deezer" /></a>
 
-</br>
+<br clear="right">
 
 </div>
 

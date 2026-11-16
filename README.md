@@ -1,14 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1b,20:565a75,40:c6b7be,60:c6b7be,80:565a75,100:0f0f1b)
 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/SBigz?pet-id=656164865082775191"
-    width="100%"
-    height="120"
-    alt="GitAnimals pixel pig and contribution count"
-  />
-</a>
-
 <div>
 
 <img align="right" width="47%" alt="SBigz pixel portrait" src="./right.png" />
@@ -60,11 +51,19 @@
 
 </div>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/SBigz?pet-id=656164865082775191"
+    width="100%"
+    height="120"
+    alt="GitAnimals pixel pig and contribution count"
+  />
+</a>
+
 ---
 
 <img align="right" src="https://komarev.com/ghpvc/?username=SBigz&label=Visitors_👀&color=lightgray&style=flat-square" alt="SBigz" />
 
-<a href="https://www.linkedin.com/company/93264941/" target="_blank"><img src="https://img.shields.io/badge/-CodeSacha-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
 <a href="https://www.linkedin.com/in/sacha-bigou" target="_blank"><img src="https://img.shields.io/badge/-Sacha_Bigou-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1b,20:565a75,40:c6b7be,60:c6b7be,80:565a75,100:0f0f1b&section=footer)
